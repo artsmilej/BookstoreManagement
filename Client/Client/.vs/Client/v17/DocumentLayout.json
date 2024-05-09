@@ -1,0 +1,100 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Studies\\Kursovi roboty\\Client\\Client\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3CBD2C1E-68EA-4834-8E71-0E0A976FB2A4}|Client\\Client.csproj|f:\\studies\\kursovi roboty\\client\\client\\client\\dataloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CBD2C1E-68EA-4834-8E71-0E0A976FB2A4}|Client\\Client.csproj|solutionrelative:client\\dataloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CBD2C1E-68EA-4834-8E71-0E0A976FB2A4}|Client\\Client.csproj|F:\\Studies\\Kursovi roboty\\Client\\Client\\client\\datagridviewloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CBD2C1E-68EA-4834-8E71-0E0A976FB2A4}|Client\\Client.csproj|solutionrelative:client\\datagridviewloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CBD2C1E-68EA-4834-8E71-0E0A976FB2A4}|Client\\Client.csproj|F:\\Studies\\Kursovi roboty\\Client\\Client\\client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CBD2C1E-68EA-4834-8E71-0E0A976FB2A4}|Client\\Client.csproj|solutionrelative:client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CBD2C1E-68EA-4834-8E71-0E0A976FB2A4}|Client\\Client.csproj|F:\\Studies\\Kursovi roboty\\Client\\Client\\client\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CBD2C1E-68EA-4834-8E71-0E0A976FB2A4}|Client\\Client.csproj|solutionrelative:client\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CBD2C1E-68EA-4834-8E71-0E0A976FB2A4}|Client\\Client.csproj|F:\\Studies\\Kursovi roboty\\Client\\Client\\client\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3CBD2C1E-68EA-4834-8E71-0E0A976FB2A4}|Client\\Client.csproj|solutionrelative:client\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DataLoader.cs",
+              "DocumentMoniker": "F:\\Studies\\Kursovi roboty\\Client\\Client\\Client\\DataLoader.cs",
+              "RelativeDocumentMoniker": "Client\\DataLoader.cs",
+              "ToolTip": "F:\\Studies\\Kursovi roboty\\Client\\Client\\Client\\DataLoader.cs",
+              "RelativeToolTip": "Client\\DataLoader.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T14:10:57.719Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "F:\\Studies\\Kursovi roboty\\Client\\Client\\Client\\MainForm.cs",
+              "RelativeDocumentMoniker": "Client\\MainForm.cs",
+              "ToolTip": "F:\\Studies\\Kursovi roboty\\Client\\Client\\Client\\MainForm.cs",
+              "RelativeToolTip": "Client\\MainForm.cs",
+              "ViewState": "AQIAAGYAAAAAAAAAAAAiwIEAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-04-29T14:04:47.564Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DataGridViewLoader.cs",
+              "DocumentMoniker": "F:\\Studies\\Kursovi roboty\\Client\\Client\\Client\\DataGridViewLoader.cs",
+              "RelativeDocumentMoniker": "Client\\DataGridViewLoader.cs",
+              "ToolTip": "F:\\Studies\\Kursovi roboty\\Client\\Client\\Client\\DataGridViewLoader.cs",
+              "RelativeToolTip": "Client\\DataGridViewLoader.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T14:11:44.746Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "F:\\Studies\\Kursovi roboty\\Client\\Client\\Client\\MainForm.cs",
+              "RelativeDocumentMoniker": "Client\\MainForm.cs",
+              "ToolTip": "F:\\Studies\\Kursovi roboty\\Client\\Client\\Client\\MainForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "Client\\MainForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-04-29T14:04:44.818Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\Studies\\Kursovi roboty\\Client\\Client\\Client\\Program.cs",
+              "RelativeDocumentMoniker": "Client\\Program.cs",
+              "ToolTip": "F:\\Studies\\Kursovi roboty\\Client\\Client\\Client\\Program.cs",
+              "RelativeToolTip": "Client\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T13:39:17.017Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
